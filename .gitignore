@@ -1,3 +1,8 @@
+echo data/STUDENT_VLE.csv >> .gitignore
+git add .gitignore
+git commit -m "Ignore large STUDENT_VLE.csv (GitHub size limit)"
+git push
+
 __pycache__/
 *.py[cod]
 *.DS_Store
