@@ -1,12 +1,11 @@
 <p align="left">
   <a href="https://github.com/annanshaikh04/OULAD-Student-Analytics-DB"><img alt="Repo" src="https://img.shields.io/badge/Repo-MySQL%20ETL-blue"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-informational">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
 <p align="center">
-  <img src="docs/banner.png" alt="OULAD Student Analytics DB Banner">
+  <img src="docs/ER Diagram_Annan_Rohan_Final Project.png" alt="OULAD Student Analytics DB Banner">
 </p>
 
 
