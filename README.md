@@ -9,6 +9,10 @@ A full database project using the Open University Learning Analytics Dataset (OU
 - Docs include ERD, schema diagrams, project report, and PPT
 
 ## Quickstart
+
+> Note: `data/STUDENT_VLE.csv` (~423 MB) is not stored in Git (GitHub 100 MB limit).
+> Place it at `data/STUDENT_VLE.csv` from your local copy or download it from the link below.
+
 ```bash
 # 1) Create virtual environment
 python -m venv .venv
