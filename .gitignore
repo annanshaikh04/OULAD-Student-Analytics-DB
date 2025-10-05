@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.DS_Store
+.vscode/
+.venv/
+config/.env
+data/raw/data/STUDENT_VLE.csv
+data/STUDENT_VLE.csv
