@@ -4,14 +4,13 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
-<p align="center">
-  <img src="docs/ER Diagram_Annan_Rohan_Final Project.png" alt="OULAD Student Analytics DB Banner">
-</p>
-
-
 # OULAD – Student Performance & Engagement Database
 
 A full database project using the Open University Learning Analytics Dataset (OULAD).
+
+<p align="center">
+  <img src="docs/ER Diagram_Annan_Rohan_Final Project.png" alt="OULAD Student Analytics DB Banner">
+</p>
 
 ## Features
 - Normalized schema with constraints, views, roles
